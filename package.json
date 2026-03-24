@@ -1,7 +1,8 @@
 {
   "name": "los-santos-bot",
   "version": "1.0.0",
-  "description": "Los Santos Online — Telegram Bot Backend",
+  "type": "module",
+  "description": "Los Santos Online Telegram Bot Backend",
   "private": true,
   "engines": {
     "node": ">=18"
